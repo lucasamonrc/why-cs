@@ -8,10 +8,6 @@ A question and answer PWA for BYU Computer Science students find help to complet
 - [Tailwind](https://tailwindcss.com/)
 - [Supabase](https://supabase.com/)
 
-## 🎥 Project Demo
-
-[![Cover](https://img.youtube.com/vi/SSxUSsD_rZY/0.jpg)](https://www.youtube.com/embed/SSxUSsD_rZY)
-
 ## ⛔️ Problem Statement
 
 Many students spend hours waiting to receive help with projects or homework assignments and don’t have a platform or someone they can rely on to get the necessary help for their questions. They are left with unanswered questions and unsolved problems for many days, leading to unneeded late nights of work, late assignments, and sometimes being unable to submit a project and homework assignments on time.
